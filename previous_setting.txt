@@ -1,0 +1,12 @@
+
+Cam >> 0 >> dp 640 >> Min 480 >> P1 196 >> P2 63 >> Rm 230 >> Rx 287;
+Ball >> 0 >> dp 1 >> Min 20 >> P1 38 >> P2 1 >> Rm 3 >> Rx 11;
+Rojo >> 0 >> dp 2 >> Min 35 >> P1 103 >> P2 48 >> Rm 13 >> Rx 26;
+Rojo >> 1 >> dp 1 >> Min 37 >> P1 200 >> P2 9 >> Rm 1 >> Rx 10;
+Rojo >> 2 >> dp 1 >> Min 17 >> P1 1 >> P2 1 >> Rm 1 >> Rx 9;
+Rojo >> 3 >> dp 2 >> Min 40 >> P1 92 >> P2 6 >> Rm 1 >> Rx 11;
+Azul >> 0 >> dp 2 >> Min 28 >> P1 142 >> P2 46 >> Rm 12 >> Rx 27;
+Azul >> 1 >> dp 1 >> Min 30 >> P1 120 >> P2 1 >> Rm 1 >> Rx 10;
+Azul >> 2 >> dp 1 >> Min 30 >> P1 105 >> P2 5 >> Rm 1 >> Rx 10;
+Azul >> 3 >> dp 1 >> Min 30 >> P1 82 >> P2 5 >> Rm 1 >> Rx 13;
+Set >> 1 >> dp 1 >> Min 0 >> P1 0 >> P2 0 >> Rm 0 >> Rx 0;

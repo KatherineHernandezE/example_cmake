@@ -1,0 +1,3 @@
+/opt/opencv/samples/cpp/example_cmake/CMakeFiles/edit_cache.dir
+/opt/opencv/samples/cpp/example_cmake/CMakeFiles/rebuild_cache.dir
+/opt/opencv/samples/cpp/example_cmake/CMakeFiles/opencv_example.dir
